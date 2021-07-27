@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GameNumberTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-07-26T01:20:00" hostname="MacBook-Pro.lan" time="0.013">
+  <properties/>
+  <testcase name="should_create_object_from_raw_number()" classname="GameNumberTest" time="0.002"/>
+  <testcase name="should_say_fizz_when_raw_number_is_13()" classname="GameNumberTest" time="0.002"/>
+  <testcase name="should_say_fizzbuzz_when_raw_number_is_15()" classname="GameNumberTest" time="0.001"/>
+  <testcase name="should_say_buzz_when_raw_number_is_5()" classname="GameNumberTest" time="0.001"/>
+  <testcase name="should_say_fizz_when_raw_number_is_3()" classname="GameNumberTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
